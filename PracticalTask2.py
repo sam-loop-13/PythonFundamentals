@@ -8,4 +8,8 @@ print("\nrezults:",
       "\nA / B =",int(a)/int(b),
       "\nA ** B =",int(a)**int(b),
       "\nA // B =",float(a)//int(b),
-      "\nA % B =",float(a)%int(b))   
+      "\nA % B =",float(a)%int(b))  
+
+
+
+
